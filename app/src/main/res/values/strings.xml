@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper Tennis</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="points">Points</string>
+    <string name="games">Games</string>
+</resources>
